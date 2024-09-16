@@ -1,1 +1,1 @@
-web: gunicorn cniapp.wsgi
+web: gunicorn cosynightin.wsgi
